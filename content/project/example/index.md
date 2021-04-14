@@ -1,4 +1,5 @@
 ---
+draft: false
 slides: example
 url_pdf: ""
 summary: Work in Progress.
@@ -6,7 +7,7 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://my.fordham.edu/web/home-community/1
 url_slides: ""
-title: Example Project
+title: Specialist or Generalist? Cross--Industry Mobility and Occupational Wages
 tags: []
 links: []
 image:
