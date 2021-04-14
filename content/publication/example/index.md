@@ -7,6 +7,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
+external_link: https://my.fordham.edu/web/home-community/1
 slides: example
 url_pdf: ""
 publication_types:
