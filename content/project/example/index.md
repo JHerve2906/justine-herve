@@ -1,6 +1,6 @@
 ---
 draft: false
-slides: example
+
 url_pdf: ""
 summary: Work in Progress.
 url_video: ""
