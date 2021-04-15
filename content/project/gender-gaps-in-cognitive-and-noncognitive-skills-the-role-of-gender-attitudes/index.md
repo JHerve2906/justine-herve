@@ -12,6 +12,11 @@ authors:
   - with Subha Mani
   - Jere Behrman
   - Anjana Lamkang and Arindam Nandi
+links:
+  - icon_pack: fab
+    icon: medium
+    name: Published as IZA Working Paper
+    url: 'https://www.iza.org/publications/dp/14132/gender-gaps-in-cognitive-and-noncognitive-skills-roles-of-ses-and-gender-attitudes'
 external_link: https://www.iza.org/publications/dp/14132/gender-gaps-in-cognitive-and-noncognitive-skills-roles-of-ses-and-gender-attitudes
 image:
   filename: featured
