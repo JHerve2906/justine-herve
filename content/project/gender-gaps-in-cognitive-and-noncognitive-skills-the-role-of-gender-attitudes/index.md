@@ -1,10 +1,11 @@
 ---
 title: "Gender gaps in Cognitive and NonCognitive Skills: The Role of Gender
   Attitudes"
-subtitle: Revise and Resubmit at the Journal of Economic Behavior and
+subtitle: ""
+date: 2021-04-15T15:46:57.822Z
+summary: Revise and Resubmit at the Journal of Economic Behavior and
   Organization, IZA Working Paper, Penn Insitutute for Economic Research Working
   Paper
-date: 2021-04-15T15:46:57.822Z
 draft: false
 featured: false
 authors:
