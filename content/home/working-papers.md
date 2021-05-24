@@ -3,6 +3,7 @@ widget: portfolio
 widget_id: Working papers
 headless: true
 weight: 10
+title: Working papers
 active: true
 design:
   columns: "2"
