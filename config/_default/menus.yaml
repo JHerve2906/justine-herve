@@ -16,7 +16,7 @@ main:
     weight: 30
   - name: Working papers
     parent = "rese"
-    url: '#wp'
+    url: '#working-papers'
     weight: 35
   - name: Talks
     url: '#talks'
