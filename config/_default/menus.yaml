@@ -10,11 +10,11 @@ menu:
   #- name: Posts
    # url: '#posts'
    # weight: 20
-    - identifier = "rese"
+    - identifier = res
       name: Projects 
       url: '#projects'
       weight: 30
-    - parent = "rese"
+    - parent = res
       name: Working papers
       url: '#working-papers'
       weight: 35
