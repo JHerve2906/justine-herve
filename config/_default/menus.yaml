@@ -10,13 +10,11 @@ menu:
   #- name: Posts
    # url: '#posts'
    # weight: 20
-    - identifier = res
-      name: Projects 
+    - name: Publications 
       url: '#projects'
       weight: 30
-    - identifier = working
-      name: Working papers
-      parent = res
+    - name: Working papers
+      #parent = res
       url: '#working-papers'
       weight: 35
     - name: Talks
