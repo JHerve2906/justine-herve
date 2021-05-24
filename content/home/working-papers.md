@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: Working papers
+widget_id: wp
 headless: true
 weight: 10
 title: Working papers
