@@ -9,6 +9,9 @@ main:
   #- name: Posts
    # url: '#posts'
    # weight: 20
+    - name: Job Market Paper 
+      url: '#jmp'
+      weight: 15
     - name: Publications 
       url: '#projects'
       weight: 30
@@ -16,12 +19,16 @@ main:
       #parent = res
       url: '#working-papers'
       weight: 35
-    - name: Talks
-      url: '#talks'
-      weight: 40
-    - name: Research
-      url: '#featured'
-      weight: 50
+     - name: Teaching
+      #parent = res
+      url: '#teaching'
+      weight: 35
+    #- name: Talks
+    #  url: '#talks'
+    #  weight: 40
+    #- name: Research
+    #  url: '#featured'
+    #  weight: 50
     - name: Contact
       url: '#contact'
       weight: 60
