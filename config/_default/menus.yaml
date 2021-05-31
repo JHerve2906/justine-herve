@@ -22,7 +22,7 @@ main:
      - name: Teaching
       #parent = res
       url: '#teaching'
-      weight: 38
+      weight: 35
     #- name: Talks
     #  url: '#talks'
     #  weight: 40
